@@ -120,6 +120,7 @@ section{
     font-size: 2.2em;
     font-weight: 800;
     margin-bottom: 30px;
+    width: 100%;
 }
 
 .content {
@@ -161,6 +162,8 @@ section{
 
 .projects {
     background-color: #000016;
+    border-radius: 200px;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 90%);
 }
 
 .projects .content {
