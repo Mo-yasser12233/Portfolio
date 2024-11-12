@@ -98,14 +98,30 @@ section{
 }
 
 .main_btn:hover{
-    background-color: #0a49f6;
+    background-color: black ;
     transform: scale(1.1 , 1.1);
+    color: #3a6cf4;
+    border: 3px solid #fff ;
 }
 
 .social_links a {
     color: #fff;
     font-size: 1.7em;
     padding-right: 30px;
+    transition: .7s ease;
+}
+
+#youtube:hover {
+    color: red;
+}
+#githube:hover {
+    color: #f0f0f0;
+}
+#facebook:hover {
+    color: blue;
+}
+#whatsapp:hover {
+    color: green;
 }
 
 .student{
